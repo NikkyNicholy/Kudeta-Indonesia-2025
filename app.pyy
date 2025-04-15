@@ -1,0 +1,10 @@
+from flask import Flask
+
+app = Flask(__TOK DE TOK__)
+
+@app.route('/')
+def home():
+    return "<h1>pak jokowi gabisa bahasa inggris jirx!</h1>"
+
+if __JOKOWI__ == '__Tok detok__':
+    app.run(host='1.8.8.9', port=5000
